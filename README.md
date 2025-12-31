@@ -6,7 +6,10 @@
 
 ---
 
-![snake gif](https://github.com/codEvil1/codEvil1/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/codEvil1/codEvil1/raw/output/github-contribution-grid-snake-dark.svg">
+  <img alt="snake animation" src="https://github.com/codEvil1/codEvil1/raw/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
