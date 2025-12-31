@@ -27,7 +27,7 @@ Curioso por tecnologia, tentando escrever algo um pouco melhor do que ontem.
 <p align="center">
   <img 
     src="https://media.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif"
-    width="220"
+    width="300"
     alt="Coding gif"
   />
 </p>
