@@ -6,7 +6,7 @@
 
 ---
 
-![snake gif](https://github.com/fforceMain/fforceMain/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/codEvil1/codEvil1/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
